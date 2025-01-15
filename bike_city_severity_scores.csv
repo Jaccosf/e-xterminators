@@ -1,0 +1,96 @@
+city,province,avg_severity,count
+Alkmaar,North Holland,0.22391857506361326,1
+Almelo,Overijssel,0.15623409669211197,5
+Amersfoort,Utrecht,0.14938507209499577,24
+Amsterdam,North Holland,0.16991800961266612,18
+Apeldoorn,Gelderland,0.19363247067585182,41
+Arnhem,Gelderland,0.1969465648854962,30
+Assen,Drenthe,0.20508905852417303,25
+Baarn,Utrecht,0.20525869380831216,6
+Bergen op Zoom,North Brabant,0.1246819338422392,1
+Blokzijl,Overijssel,0.11959287531806617,1
+Boxtel,North Brabant,0.2162849872773537,1
+Breda,North Brabant,0.17333333333333337,25
+Bredevoort,Gelderland,0.22646310432569977,1
+Buren,Gelderland,0.07633587786259542,1
+Capelle aan den IJssel,South Holland,0.11620016963528414,3
+Coevorden,Drenthe,0.11450381679389314,1
+Culemborg,Gelderland,0.22705030338618126,13
+Delft,South Holland,0.1806615776081425,3
+Delfzijl,Groningen,0.1297709923664122,1
+Deventer,Overijssel,0.1844177874712226,63
+Dieren,Gelderland,0.18974918211559436,7
+Doetinchem,Gelderland,0.16994371192844476,33
+Echt,Limburg,0.15627650551314673,132
+Ede,Gelderland,0.1706129278020944,511
+Eindhoven,North Brabant,0.163881438690599,37
+Elburg,Gelderland,0.16132315521628499,5
+Emmeloord,Flevoland,0.18575063613231554,1
+Emmen,Drenthe,0.12468193384223919,6
+Enschede,Overijssel,0.16412213740458018,20
+Geldrop,North Brabant,0.17302798982188297,1
+Gennep,Limburg,0.23918575063613234,2
+Goes,Zeeland,0.12340966921119595,2
+Gouda,South Holland,0.1628498727735369,4
+Grave,North Brabant,0.16284987277353688,7
+Groenlo,Gelderland,0.1513994910941476,2
+Groningen,Groningen,0.1263782866836302,6
+Haarlem,North Holland,0.18575063613231554,1
+Hardenberg,Overijssel,0.1597964376590331,5
+Harderwijk,Gelderland,0.19974554707379136,4
+Hasselt,Overijssel,0.2162849872773537,14
+Hattem,Gelderland,0.13449654671028718,7
+Helmond,North Brabant,0.1670907548770144,3
+Hengelo,Overijssel,0.15321701199563798,14
+Heusden,North Brabant,0.15267175572519084,1
+Hoogeveen,Drenthe,0.22646310432569977,1
+Hoorn,North Holland,0.1648491457651763,14
+Houten,Utrecht,0.14758269720101783,1
+Huissen,Gelderland,0.18490245971162003,3
+Kampen,Overijssel,0.16066884769174847,7
+Laren,North Holland,0.2092875318066158,4
+Leerdam,Utrecht,0.2137404580152672,1
+Leiden,South Holland,0.14927905004240882,3
+Lelystad,Flevoland,0.2048346055979644,2
+Maastricht,Limburg,0.13486005089058525,1
+Meppel,Drenthe,0.13384223918575064,5
+Middelburg,Zeeland,0.18575063613231554,3
+Muiden,North Holland,0.17048346055979643,1
+Nieuwegein,Utrecht,0.24045801526717564,2
+Nijkerk,Gelderland,0.19423240033927058,6
+Nijmegen,Gelderland,0.19237980447301462,38
+Oldenzaal,Overijssel,0.20186598812553014,18
+Oosterhout,North Brabant,0.1816793893129771,5
+Oss,North Brabant,0.16396310432569974,16
+Purmerend,North Holland,0.07888040712468194,1
+Rhenen,Utrecht,0.12022900763358779,4
+Rijssen,Overijssel,0.16183206106870232,5
+Roosendaal,North Brabant,0.16327396098388466,12
+Rotterdam,South Holland,0.14100932994062768,12
+Sloten,Friesland,0.17619313597716132,164
+Sluis,Zeeland,0.1577608142493639,5
+Steenwijk,Overijssel,0.20610687022900764,1
+Stein,Limburg,0.20441051738761665,3
+Terneuzen,Zeeland,0.17048346055979646,1
+Tiel,Gelderland,0.15691263782866838,3
+Tilburg,North Brabant,0.20073508623126946,18
+Ulft,Gelderland,0.1870229007633588,2
+Utrecht,Utrecht,0.16692111959287534,25
+Valkenswaard,North Brabant,0.13104325699745548,2
+Veenendaal,Utrecht,0.16079467606185166,26
+Veldhoven,North Brabant,0.10008481764206956,3
+Vlissingen,Zeeland,0.1806615776081425,3
+Voorst,Gelderland,0.20235703763224858,19
+Waalwijk,North Brabant,0.1272264631043257,1
+Wageningen,Gelderland,0.18687610099823843,52
+Weert,Limburg,0.19974554707379136,2
+Wijchen,Gelderland,0.15966921119592878,4
+Wijk bij Duurstede,Utrecht,0.18320610687022904,1
+Winterswijk,Gelderland,0.18469041560644617,12
+Woerden,Utrecht,0.10814249363867687,2
+Zaandam,North Holland,0.1603053435114504,1
+Zeist,Utrecht,0.15648854961832062,2
+Zevenaar,Gelderland,0.1755725190839695,6
+Zoetermeer,South Holland,0.16793893129770993,1
+Zutphen,Gelderland,0.15165394402035623,10
+Zwolle,Overijssel,0.18345697595240656,71

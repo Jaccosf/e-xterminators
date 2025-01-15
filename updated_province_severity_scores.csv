@@ -1,0 +1,14 @@
+province,avg_severity_bike,avg_severity_e_bike,count_bike,count_e_bike,difference_score
+North Holland,0.17,0.0,41.0,0.0,0.17
+Limburg,0.19,0.03,140.0,11.0,0.16
+Flevoland,0.2,0.05,3.0,1.0,0.15
+North Brabant,0.16,0.03,133.0,4.0,0.13
+Zeeland,0.16,0.03,14.0,1.0,0.13
+Gelderland,0.18,0.08,810.0,53.0,0.1
+Utrecht,0.15,0.05,94.0,6.0,0.1
+Drenthe,0.16,0.08,38.0,11.0,0.08
+Overijssel,0.17,0.1,224.0,18.0,0.07
+Groningen,0.13,0.07,7.0,1.0,0.06
+South Holland,0.1,0.05,26.0,3.0,0.05
+Friesland,0.18,0.15,164.0,6.0,0.03
+Unknown,0.0,0.0,50.0,30.0,0.0
