@@ -1,9 +1,23 @@
-The data analysis exists of two Jupyter notebooks:
-- [E-bike and regular bike scraping and cleaning](scraping-submission.ipynb)
+The data scraping exists of one Jupyter notebook:
+- [E-bike and regular bike scraping and cleaning](e-bike-scraping-json.ipynb)
 
-Next to that, two csv files are present for the data analysis:
+Next to that, two csv files are present for the data scraping:
 - [E-bike data](e-bike_articles.csv)
 - [Regular bike data](bike_articles.csv)
+- [E-bike data translated](etrans.csv)
+- [Regular bike data translated](tradtransog.csv)
+
+For the ML, four Jupyter notebooks are present:
+- [Design Matrix & Aggregated Severity Score](DesignMatrix.ipynb)
+- [Categorised Severity Score](Untitled.ipynb)
+- [Severity Score & Time Series Analysis](TSMCSS.ipynb)
+- [Time Series Analysis, Severity Score & Topic Modelling](NLP.ipynb)
+
+And four csv files for aggregated data:
+- [City e-bike](e_bike_city_severity_scores.ipynb)
+- [City regular bike](bike_city_severity_scores.ipynb)
+- [Province combined](province_severity_scores.ipynb)
+- [Province combined + difference](updated_province_severity_scores.ipynb)
 
 And, the roaddanger dataset in json:
 - [Roaddanger data](roaddanger.json)
