@@ -14,10 +14,10 @@ For the ML, four Jupyter notebooks are present:
 - [Time Series Analysis, Severity Score & Topic Modelling](NLP.ipynb)
 
 And four csv files for aggregated data:
-- [City e-bike](e_bike_city_severity_scores.ipynb)
-- [City regular bike](bike_city_severity_scores.ipynb)
-- [Province combined](province_severity_scores.ipynb)
-- [Province combined + difference](updated_province_severity_scores.ipynb)
+- [City e-bike](e_bike_city_severity_scores.csv)
+- [City regular bike](bike_city_severity_scores.csv)
+- [Province combined](province_severity_scores.csv)
+- [Province combined + difference](updated_province_severity_scores.csv)
 
 And, the roaddanger dataset in json:
 - [Roaddanger data](roaddanger.json)
